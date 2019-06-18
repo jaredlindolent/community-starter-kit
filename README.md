@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+a Github Training course
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This course is to help you learn about the features of Github
 
 ## Getting started
 
