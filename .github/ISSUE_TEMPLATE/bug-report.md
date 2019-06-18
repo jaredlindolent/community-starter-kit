@@ -1,1 +1,1 @@
-#Bug Reporting
+## Bug Reporting
